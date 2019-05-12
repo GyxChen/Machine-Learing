@@ -1,3 +1,5 @@
+#代码上传时间:2019/5/12
+#需要学习的数据,movielens100k
 import numpy as np
 import matplotlib.pyplot as plt
 
